@@ -1,0 +1,6 @@
+c:\Users\Acer\codeforces\Codeforces - Codeforces Round #640 (Div. 4)\A. Sum of Round Numbers\sol.cpp:18:18: error: stray '\314' in program
+     vector<ll> v;̥
+                  ^
+c:\Users\Acer\codeforces\Codeforces - Codeforces Round #640 (Div. 4)\A. Sum of Round Numbers\sol.cpp:18:19: error: stray '\245' in program
+     vector<ll> v;̥
+                   ^
